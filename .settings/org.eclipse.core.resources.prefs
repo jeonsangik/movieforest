@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/spring/baseSetting/config=UTF-8
+encoding//src/main/java/com/spring/baseSetting/controller=UTF-8
+encoding//src/main/java/com/spring/baseSetting/controller/MovieCont.java=UTF-8
+encoding//src/main/java/com/spring/baseSetting/controller/mov_showCont.java=UTF-8
+encoding//src/main/java/com/spring/baseSetting/dao/MemberDao.java=UTF-8
+encoding//src/main/java/com/spring/baseSetting/dao/ResDao.java=UTF-8
+encoding//src/main/java/com/spring/baseSetting/dao/SeatinfoDao.java=UTF-8
+encoding//src/main/java/com/spring/baseSetting/dao/impl=UTF-8
+encoding//src/main/java/com/spring/baseSetting/dao/impl/MemberDaoImpl.java=UTF-8
+encoding//src/main/java/com/spring/baseSetting/service=UTF-8
+encoding//src/main/java/com/spring/baseSetting/service/impl/MemberServiceImpl.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/board/replyUpdateView.jsp=UTF-8
+encoding//src/main/webapp/resources/css=UTF-8
+encoding//src/main/webapp/resources/css/style.css=UTF-8
